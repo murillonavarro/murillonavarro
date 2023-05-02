@@ -14,9 +14,6 @@ Sou <b>Desenvolvedor</b> na <b>Pitang</b> e estudante do último ano de Sistemas
 <a href="https://www.linkedin.com/in/murillo-n-3b0a88114/" alt="Linkedin">
 <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/murillo-n-3b0a88114/" /></a>
 
-<a href="https://t.me/murillonavarro" alt="Telegram">
-<img src="https://img.shields.io/badge/-Telegram-26a6e4?style=for-the-badge&logo=Telegram&logoColor=white&link=https://t.me/murillonavarro" /></a>
-
 ### ⚡ Tecnologias
 
 Estas são algumas das tecnologias e ferramentas com as quais trabalho ou já estudei:
