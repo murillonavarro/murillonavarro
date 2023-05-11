@@ -2,7 +2,7 @@
 
 ### Olá, meu nome é Murillo Navarro.
 
-Sou <b>Desenvolvedor</b> na <b>Pitang</b> e estudante do último ano de Sistemas de informação na Universidade São Judas Tadeu.
+Sou <b>Desenvolvedor</b> na <b>Stefanini</b> e formado em Sistemas de informação na Universidade São Judas Tadeu.
 
 </p>
 
